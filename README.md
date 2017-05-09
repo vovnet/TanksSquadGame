@@ -1,3 +1,2 @@
 # TanksSquadGame
-Game made in haxe and Flambe framework.
-You may play this game on a web or android devices.
+Игра-кликер, написана на haxe с использованием фреймворка flambe. Доступна веб-версия (html5) и версия для телефонов (android).
